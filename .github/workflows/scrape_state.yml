@@ -1,5 +1,4 @@
-name: First Scraper
-
+name: Second Scraper
 
 on:
   workflow_dispatch:
